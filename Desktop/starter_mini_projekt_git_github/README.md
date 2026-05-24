@@ -4,16 +4,18 @@
 
 ## Autor
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
+Imię i nazwisko: Kacper Chaciński
+Klasa / grupa: 4TP
 
 ## Cel projektu
 
-Napisz własnymi słowami, po co powstał projekt i czego uczysz się podczas pracy z Git oraz GitHub.
+Celem projektu jest nauka pracy z  Git i platformą GitHub.  
+Podczas wykonywania projektu ćwiczę tworzenie commitów, branchy, merge oraz wysyłanie zmian do zdalnego repozytorium.
 
 ## Opis projektu
 
-Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS, JS, dokumentację w katalogu `docs` oraz przykładowe dane w katalogu `data`.
+Projekt przedstawia prostą stronę internetową wykonaną w HTML, CSS oraz JavaScript.  
+Strona zawiera podstawowe informacje o nauce Git i GitHub oraz prostą interakcję użytkownika.
 
 ## Jak uruchomić projekt
 
@@ -39,8 +41,12 @@ Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS,
 
 ## Historia pracy
 
-W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co zostało wykonane na poszczególnych branchach.
+Na początku dodałem podstawowe pliki: index.html, style.css i script.js.
+
+Potem dorzuciłem foldery data/ i docs/.
+
+Na końcu dodałem pliki do pracy na branchach w pliki-do-branchy/.
 
 ## Link do repozytorium
 
-Wklej link do publicznego repozytorium GitHub: ........................................
+Wklej link do publicznego repozytorium GitHub: https://github.com/ManieraQ/git-mini-projekt-kacper-chaci-ski
